@@ -1,8 +1,6 @@
 # Scraping Script Express
 
-Scraping Script Express is a simple utility that helps you scrape a website and generate
-CSV output in one click. The intent of this repository is to provide a small
-reference implementation with a minimal CI setup.
+Scraping Script Express is a simple utility that helps you scrape a website and generate CSV output in one click. It provides a minimal reference for turning a URL and an HTML tag or CSS selector into a CSV file containing the extracted text. The intent of this repository is to provide a small reference implementation with a minimal CI setup.
 
 ## Warning
 
